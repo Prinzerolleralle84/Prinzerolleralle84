@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Prinzerolleralle84
-- 👀 I’m interested in hyper-v  Webserver netzwerk arduino 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Prinzerolleralle 
+
 
 
 <!---
